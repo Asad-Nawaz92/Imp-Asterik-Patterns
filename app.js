@@ -35,6 +35,14 @@ for (var i = 1; i <= 5; i++) {
 
 document.write("<br>")
 
+// 11111
+// 22222
+// 33333
+// 44444
+// 55555
+
+// -----> Code <-----
+
 for (var i = 1; i <= 5; i++) {
     for (var j = 1; j <= 5; j++) {
         document.write(i)
@@ -43,6 +51,14 @@ for (var i = 1; i <= 5; i++) {
 }
 
 document.write("<br>")
+
+// 55555
+// 44444
+// 33333
+// 22222
+// 11111
+
+// -----> Code <-----
 
 for (var i = 5; i >= 1; i--) {
     for (var j = 1; j <= 5; j++) {
